@@ -6,7 +6,7 @@ import java.util.Scanner;
     Для вычисления суммы используйте оператор +. */
 
 public class Task8 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите 1 число: ");

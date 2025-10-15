@@ -1,7 +1,7 @@
 package LW1;
 
 public class Example3 {
-    static void main() {
+    public static void main(String[] args) {
         int s, d;
         s = 10;
         d = 20;

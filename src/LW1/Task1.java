@@ -6,7 +6,7 @@ import java.util.Scanner;
     После ввода программа выводит сообщение «Hello <фамилия, имя, отчество>». */
 
 public class Task1 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите фамилию: ");

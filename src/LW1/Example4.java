@@ -3,7 +3,7 @@ package LW1;
 import java.util.Scanner;
 
 public class Example4 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
         System.out.print("Input a number: ");

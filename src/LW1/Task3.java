@@ -7,7 +7,7 @@ import java.util.Scanner;
     Программа выводит сообщение о сегодняшней дате (день недели, дата, месяц). */
 
 public class Task3 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите день недели: ");

@@ -6,7 +6,7 @@ import java.util.Scanner;
     Программа отображает сообщение об имени и возрасте пользователя. */
 
 public class Task2 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите имя: ");

@@ -7,7 +7,7 @@ import java.util.Scanner;
     Четвертое число должно быть квадратом суммы первых трех чисел. */
 
 public class Task9 {
-    static void main() {
+    public static void main(String[] args)  {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите число: ");

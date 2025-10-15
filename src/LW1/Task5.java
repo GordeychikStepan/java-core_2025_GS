@@ -6,7 +6,7 @@ import java.util.Scanner;
 /*  Напишите программу, в которой по году рождения определяется возраст пользователя. */
 
 public class Task5 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите ваш год рождения: ");

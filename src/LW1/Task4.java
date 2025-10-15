@@ -6,7 +6,7 @@ import java.util.Scanner;
     Программа выводит сообщение о том, что соответствующий месяц содержит указанное количество дней. */
 
 public class Task4 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите месяц: ");
