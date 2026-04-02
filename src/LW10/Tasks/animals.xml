@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<animals>
+    <animal>
+        <name>Барсик</name>
+        <type>Кот</type>
+        <year>2018</year>
+    </animal>
+    <animal>
+        <name>Кеша</name>
+        <type>Попугай</type>
+        <year>2022</year>
+    </animal>
+    <animal>
+        <name>Мурка</name>
+        <type>Кошка</type>
+        <year>2019</year>
+    </animal>
+    <animal>
+        <name>Рекс</name>
+        <type>Собака</type>
+        <year>2021</year>
+    </animal>
+</animals>
