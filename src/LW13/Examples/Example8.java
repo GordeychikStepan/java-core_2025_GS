@@ -1,0 +1,20 @@
+package LW13.Examples;
+
+public class Example8 {
+    public static int m() {
+        try {
+            System.out.println("0");
+            throw new RuntimeException("ошибка в методе m()");
+        } finally {
+            System.out.println("1");
+        }
+    }
+
+    public static void main(String[] args) {
+        try {
+            System.out.println(m());
+        } catch (RuntimeException e) {
+            System.out.println("Исключение перехвачено в main: " + e.getMessage());
+        }
+    }
+}
